@@ -29,7 +29,7 @@ export const createHashRouter = (baseUrl, routes) => {
 }
 
 export const createHistoryRouter = (baseUrl, routes) => {
-  // TODO
+  // TODO: homework
 }
 
 export const RouterView = (props) => currentRouterView(props)
